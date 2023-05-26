@@ -1,5 +1,5 @@
 # HTMLToBBCode
-Билет 60. НТМЕТоВВСоде
+Билет 60. HTMLToBBCode
 
  Реализуйте преобразователь из языка разметки HTML в ВВСоdе (https://ru.wikipedia.org/wiki/BBCode)
 
